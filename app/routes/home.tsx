@@ -3,6 +3,7 @@ import { resumes } from '../../constants';
 import ResumeCard from '~/components/ResumeCard';
 
 
+
 export function meta({}: Route.MetaArgs) {
   return [
     { title: "Resumind" },
